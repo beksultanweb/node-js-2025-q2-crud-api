@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "username": "Alice",
+    "age": 27,
+    "hobbies": [
+      "footbal",
+      "running"
+    ]
+  },
+  {
+    "id": 2,
+    "username": "Bob",
+    "age": 21,
+    "hobbies": [
+      "tennis",
+      "swimming"
+    ]
+  },
+  {
+    "username": "Beka",
+    "age": 27,
+    "hobbies": [
+      "chess",
+      "videogames"
+    ],
+    "id": "26be6fc1-52cd-4711-9148-203fa343d65f"
+  },
+  {
+    "username": "Beka",
+    "age": 27,
+    "hobbies": [
+      "chess",
+      "videogames"
+    ],
+    "id": "d8b6f56d-8a79-46c6-a582-7912d2a984ae"
+  },
+  {
+    "username": "Beka",
+    "age": 27,
+    "hobbies": [
+      "chess",
+      "videogames"
+    ],
+    "id": "3023a7e0-a2af-40b6-960c-7653adc98704"
+  },
+  {
+    "username": "Arman",
+    "age": 27,
+    "hobbies": [
+      "architecture",
+      "gym",
+      "dating"
+    ],
+    "id": "51f0ea4e-e964-439c-9b01-00daf6ed8dff"
+  },
+  {
+    "username": "Ermek",
+    "age": 27,
+    "hobbies": [
+      "gamedev",
+      "unity",
+      "chess",
+      "C#"
+    ],
+    "id": "cd211ada-055a-4d59-8a02-1318cb9cf33e"
+  },
+  {
+    "username": "Ermek",
+    "age": 27,
+    "hobbies": [
+      "gamedev",
+      "unity",
+      "chess",
+      "C#"
+    ],
+    "id": "ca2befb3-9d7b-4462-a74b-2e5db7b64d6a"
+  },
+  {
+    "username": "Ermek",
+    "age": 27,
+    "hobbies": [
+      "gamedev",
+      "unity",
+      "chess",
+      "C#"
+    ],
+    "id": "ef5f3268-dc9f-4000-8014-851f1fc8eeb8"
+  }
+]
