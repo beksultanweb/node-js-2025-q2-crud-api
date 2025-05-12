@@ -1,0 +1,21 @@
+{
+  "name": "crud-api-users",
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "start:dev": "nodemon ./src/index.js",
+    "build": "webpack --config webpack.config.js",
+    "start:prod": "npm run build && NODE_ENV=production node dist/index.js",
+    "start:multi": "node src/cluster.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "nodemon": "^3.1.10",
+    "uuid": "^11.1.0"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^5.99.8",
+    "webpack-cli": "^6.0.1"
+  }
+}
